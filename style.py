@@ -1,4 +1,4 @@
-#3
+
 ## '''write a program that input a number 'n' and displays the letter 's' from to 1 to n number of times,
 # in a particulate style.Give a relevant messages while taking input and displaying output Ex, if the number is 4, then the output should be
 #     : s
